@@ -1,0 +1,149 @@
+a {
+    text-decoration: none;
+    color: #000000;
+}
+a:hover {
+    text-decoration: underline;
+    color: #59A386;
+}
+.shoppingCart {
+    width: 1200px;
+    position: relative;
+    /*margin: 0 auto;*/
+}
+.num {
+    width: 20px;
+    height: 18px;
+}
+.header {
+    position: relative;
+    width: 1200px;
+    height: 50px;
+    font-weight: bold;
+    background-color: #eeeeee;
+
+}
+.goodsList {
+    position: relative;
+    height: 120px;
+    width: 1200px;
+    margin-top: 20px;
+    background-color: #fef7fb;
+    border:1px solid #bed996;
+}
+.Content {
+    position:relative;
+    width: 1200px;
+    height: 50px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.listContent {
+    position:relative;
+    width: 1200px;
+    height: 120px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.common {
+    position:relative;
+    left: 10px;
+    text-align: center;
+    display: inline-block;
+}
+.goodsImg {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    right: 5px;
+    vertical-align: middle;
+}
+.footer {
+    position: relative;
+    margin-top: 20px;
+    width: 1200px;
+    height: 50px;
+    background-color:#eeeeee;
+}
+.firstTab {
+    width: 60px;
+}
+.secondTab {
+    width: 450px;
+}
+.thirdTab {
+    width:130px;
+    padding-left: 100px;
+}
+.fourthTab {
+    width: 250px;
+    padding-left: 120px;
+}
+.lastTab {
+    width: 210px;
+    padding-left: 180px;
+}
+.specialItem {
+    font-size: 20px;
+    color: #E4393C;
+    font-weight: bold;
+}
+.fourthTab input[type=button] {
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+    border: 1px solid #bed996;
+    background-color: #bed996;
+}
+.goodsLink {
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    padding-right:40px ;
+    /*padding-top: 0px;*/
+    vertical-align: middle;
+}
+.selectBtn{
+    cursor: pointer;
+    border: 1px solid #59A386;
+    /*background-color: transparent;*/
+    border-radius: 3px;
+    /*color: black;*/
+}
+.count {
+    left: 50px;
+    width: 300px;
+    font-weight: bold;
+}
+.total {
+    left: 50px;
+    width: 300px;
+    font-weight: bold;
+}
+
+
+
+.item {
+    position: relative;
+    border: 1px solid #ccc;
+    padding-left: 30px;
+}
+
+.MyCart-table{
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 1200px;
+    height: 550px;
+    border: 0px solid;
+}
+
+.cart-aftersale{
+    background: #edf3ff;
+    padding: 0 8px;
+    color: #627db6;
+    border-radius: 13px;
+    display: inline-block;
+    margin-bottom: 5px;
+    font-size: 0.5em;
+}

@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="druid-1.0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/web_e324_付意名_项目实战/项目所需jar包/druid-1.0.9.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/web_e324_付意名_项目实战/项目所需jar包/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/web_e324_付意名_项目实战/项目所需jar包/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/web_e324_付意名_项目实战/项目所需jar包/mysql-connector-java-5.1.49.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/web_e324_付意名_项目实战/项目所需jar包/commons-pool2-2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/web_e324_付意名_项目实战/项目所需jar包/spring-beans-5.1.10.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/web_e324_付意名_项目实战/项目所需jar包/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/web_e324_付意名_项目实战/项目所需jar包/jstl-impl.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/web_e324_付意名_项目实战/项目所需jar包/jedis-2.7.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/web_e324_付意名_项目实战/项目所需jar包/spring-jdbc-5.1.10.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/web_e324_付意名_项目实战/项目所需jar包/spring-core-5.1.10.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/web_e324_付意名_项目实战/项目所需jar包/spring-tx-5.1.10.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

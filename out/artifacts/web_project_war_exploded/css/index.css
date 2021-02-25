@@ -1,0 +1,98 @@
+
+#box{
+    /*border: 1px solid;*/
+}
+
+#head{
+    border: 1px solid;
+    height: 50px;
+}
+
+#shopping{
+    width: 40px;
+    height: 40px;
+}
+
+/*body.modal-open {*/
+/*    overflow-y: auto !important;*/
+/*    padding-right: 0 !important;//解决了右边框每次加17px问题*/
+/*}*/
+
+.body-bottom{
+    height: 550px;
+    border: 0px solid;
+    margin-top: 20px;
+}
+
+.body-bottom-top{
+    height: 33px;
+    border-bottom: 3px solid #ffc900;
+}
+
+.body-bottom-top-span{
+    font-size: 15px;
+    padding-top: 10px;
+    line-height:33px
+}
+
+.body-bottom-top-l{
+    float: left;
+}
+.body-bottom-top-r{
+    float: left;
+}
+
+.body-bottom-content{
+    height: 500px;
+    border: 0px solid;
+    margin-top: 5px;
+}
+
+.body-bottom-content-border{
+    height: 200px;
+    border: 0px solid;
+}
+
+.body-bottom-content-bottom{
+    height: 180px;
+    border: 1px solid #eee;
+}
+.body-bottom-content-bottom-top{
+    margin-top: 25px;
+}
+.body-center{
+    height: 610px;
+    border: 0px solid;
+}
+
+.body-center-top{
+    height: 33px;
+    border-bottom: 3px solid #ffc900;
+    border: 0px solid;
+    margin-top: 5px;
+}
+
+.body-footer{
+    height: 555px;
+    border: 0px solid;
+    margin-top: 40px;
+}
+
+.body-footer-content{
+    overflow: hidden;
+}
+.body-footer-content img{
+    cursor: pointer;
+    transition: all 0.6s;
+}
+.body-footer-content img:hover{
+    transform: scale(1.4);
+}
+
+
+.base-box{
+    height: 50px;
+    position: absolute;
+    font-size: 30px;
+    margin-top: 10px;
+}

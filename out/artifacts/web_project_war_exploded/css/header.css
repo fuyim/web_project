@@ -1,0 +1,137 @@
+body{
+    padding-right: 0!important;
+}
+#header{
+    height: 160px;
+    /*width: 100%;*/
+}
+
+.header-top{
+    height: 80px;
+    border-bottom: 1px solid #d0d0d0;
+    border-top: 1px solid #d0d0d0;
+}
+
+.header-top-left{
+    float: left;
+    width: 620px;
+    position: absolute;
+    right: 1550px;
+}
+
+.header-top-right{
+    float:right;
+    width: 620px;
+    position: absolute;
+    left: 1000px;
+}
+.img{
+    float: left;
+}
+#img{
+    width: 300px;
+    height: 100px;
+    padding-left: 80px;
+    padding-bottom: 25px;
+}
+
+.center{
+    float:right;
+}
+
+.price-cart{
+    line-height: 80px;
+    padding-right: 20px;
+}
+
+.price{
+    font-size: 15px;
+    color: #7e7e7e;
+}
+.car{
+    font-size: 25px;
+    color: #7e7e7e;;
+}
+.phone{
+    float: left;
+}
+
+.telephone{
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.phone-call{
+    padding-left: 100px;
+}
+
+.search{
+    float: right
+}
+
+#search_btn{
+    margin-top: 20px;
+    margin-right: 100px;
+}
+
+.span_search{
+    font-size: 35px;
+    padding-top: 20px;
+    padding-right: 100px;
+}
+
+.search-a{
+    text-decoration: none;
+}
+
+.nav{
+    margin: 0 auto;
+    width: 850px;
+    height: 50px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+ul>li>a{
+    font-size: 20px;
+    color: #7e7e7e;
+}
+
+.search-modal-center{
+    margin: 0 auto;
+    width: 678px;
+    height: 120px;
+    /*border: 1px solid;*/
+    margin-top: 200px;
+}
+
+.search-modal-center-left{
+    width: 305px;
+    height: 40px;
+    /*border: 1px solid;*/
+    margin-top: 35px;
+    padding-left: 55px;
+    float: left;
+}
+
+.search-modal-center-right{
+    height: 40px;
+    width: 46px;
+    /*border: 1px solid;*/
+    float: right;
+    margin-top: 35px;
+    background-color: #C2A476;
+    margin-right: 53px;
+    border-radius: 5px;
+}
+
+#search-input{
+    width: 525px;
+    height: 40px;
+}
+
+.search-modal-center-span{
+    padding-top: 10px;
+    font-size: 20px;
+    padding-left: 15px;
+}
+

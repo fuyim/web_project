@@ -1,0 +1,108 @@
+.single-center{
+    margin: 0 auto;
+    width: 1300px;
+    height: 700px;
+    border: 0px solid;
+}
+
+.single-center-l{
+    width: 400px;
+    height: 600px;
+    border: 0px solid red;
+    margin-left: 200px;
+    margin-top: 40px;
+    float: left;
+}
+
+.productImg{
+    width:385px ;
+    height:385px ;
+    margin-left: 10px;
+}
+
+.productImg img{
+    cursor: pointer;
+    transition: all 0.6s;
+}
+
+.productImg img:hover{
+    transform: scale(1.4);
+}
+
+.productImg-bottom {
+    border: 0px solid;
+    border-bottom:1px solid;
+    border-bottom: #eeeeee dashed;
+    height: 140px;
+    width: 375px;
+    margin-left: 12px;
+    margin-top: 5px;
+}
+
+.productImg-bottom-l{
+    border: 0px solid;
+    width: 124px;
+    height: 130px;
+    float: left;
+}
+
+.productImg-bottom-c{
+    border: 0px solid;
+    width: 124px;
+    height: 130px;
+    float: left;
+}
+
+.productImg-bottom-r{
+    border: 0px solid;
+    width: 124px;
+    height: 130px;
+    float: left;
+}
+
+.single-center-r{
+    width: 500px;
+    height: 600px;
+    border: 0px solid;
+    float: right;
+    margin-top: 40px;
+    margin-right: 170px
+}
+
+.single-center-r-top{
+    margin: 0 auto;
+    width: 450px;
+    height: 100px;
+    border: 0px solid;
+}
+
+.single-center-r-center{
+    margin: 0 auto;
+    width: 450px;
+    height: 280px;
+    border: 0px solid;
+    border-bottom: 1px solid;
+    border-bottom: #eeeeee dashed;
+    line-height: 40px;
+    margin-top: 10px;
+}
+
+.ClothColor>a:hover{
+    text-decoration: none;
+    color: #c0a16b;
+}
+
+.single-center-r-footer{
+    width: 400px;
+    height: 100px;
+    border: 0px solid;
+    margin-left: 25px;
+    padding-top: 10px;
+    line-height: 40px;
+}
+
+
+.service>a:hover{
+    text-decoration: none;
+    color:  #f10180;
+}

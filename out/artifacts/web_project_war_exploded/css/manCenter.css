@@ -1,0 +1,47 @@
+.man-product{
+    /*height: 1450px;*/
+    border: 0px solid;
+    margin-top: 60px;
+}
+
+.man-product-center{
+    margin: 0 auto;
+    border: 0px solid red;
+    width: 1350px;
+    height:auto!important;
+    overflow:hidden;
+}
+.man-product-center-top{
+    margin: 0 auto;
+    height: 50px;
+    width: 150px;
+}
+
+.man-product-center-body-center{
+    border: 0px solid;
+    height: 430px;
+}
+
+.man-product-center-body-center-bottom{
+    border: 1px solid #eee;
+    height: 120px;
+
+}
+
+.man-product-center-bottom{
+    /*margin:0 auto;*/
+    width: 1450px;
+    height: 100px;
+    border: 0px solid blue;
+    color: #878787;
+}
+
+.page_num_inf{
+    float: left;
+    margin-top: 25px;
+}
+
+.PageNum{
+    float: left;
+    margin-left: 15px;
+}

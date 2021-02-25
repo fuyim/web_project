@@ -1,0 +1,103 @@
+.MyAddress-body{
+    height: 800px;
+    border: 0px solid;
+}
+
+.MyAddress-body-l{
+    width: 550px;
+    height: 490px;
+    border: 8px solid #eeeeee;
+    margin-left: 20px;
+    margin-top: 45px;
+    border-radius: 10px;
+    float: left;
+}
+
+.MyAddress-body-l-top{
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.MyAddress-body-center{
+    float: left;
+    width: 3px;
+    height: 490px;
+    border: 0px solid;
+    margin-left: 10px;
+    margin-top: 45px;
+    background-color: #e4b9c0;
+}
+
+.MyAddress-body-center-r{
+    width: 785px;
+    height: 800px;
+    /*border: 8px solid #eeeeee;*/
+    margin-top: 5px;
+    margin-right: 20px;
+    border-radius: 10px;
+    float: right;
+}
+
+.MyAddress-body-center-r-body{
+    width: 750px;
+    height: 300px;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 10px;
+    border: 1px solid #dddddd;
+}
+
+.MyAddress-body-center-r-body-top-l{
+    margin-top: 20px;
+    margin-left: 10px;
+    float: left;
+}
+
+.MyAddress-body-center-r-body-top-c{
+    float: left;
+    margin-left: 20px;
+    margin-top: 3px;
+    background-color: #c0a16b;
+}
+
+.close{
+    margin-top: 5px;
+    margin-right: 10px;
+    font-size: 30px;
+}
+.close:hover{
+    color: #a94442;
+
+    float: right;
+}
+.top{
+    height: 50px;
+}
+
+.MyAddress-body-center-r-body-center-l{
+
+
+}
+
+.MyAddress-center{
+    float: left;
+    height: 210px;
+    width: 350px;
+    line-height: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.MyAddress-body-center-r-body-footer{
+    height: 50px;
+    width: 80px;
+    float: right;
+    margin-top: 200px;
+    margin-right: 20px;
+}
+
+.setDefault:hover{
+    text-decoration: none;
+    color: #1b6d85;
+}

@@ -1,0 +1,47 @@
+.updatePassWord-box{
+    border: 0px solid;
+    height: 80px;
+    background-color: #f5f5f5;
+}
+
+
+.updatePassWord-box-center{
+    display: none;
+    line-height: 80px;
+    padding-left: 100px;
+}
+
+.updatePassWord-box-home:hover {
+    text-decoration: none;
+    color: #a94442;
+}
+
+.updatePassWord-box-buttom{
+    height: 595px;
+    border: 0px solid;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: none;
+}
+body{
+    padding-right: 0!important;
+}
+.updatePassWord-box-buttom-center{
+    margin:0 auto;
+    width: 600px;
+    height: 595px;
+    border: 8px solid #eeeeee;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.updatePassWord-img{
+    width: 350px;
+    height: 100px;
+}
+
+.updatePassWord-box-buttom-logo{
+    width: 600px;
+    height: 80px;
+    padding-bottom: 5px;
+}
